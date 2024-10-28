@@ -2,7 +2,7 @@
 'RCET0265
 'Fall24
 'Diner Menu
-' link
+'https://github.com/ju8t1n203/DinerMenu
 Public Class DinerMenu
     Private Sub ExitButton_Click(sender As Object, e As EventArgs) Handles ExitButton.Click
         Me.Close()
